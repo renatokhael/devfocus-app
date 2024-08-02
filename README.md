@@ -1,6 +1,9 @@
+<center><img src=".github/DevFocus.png" width="768px" /></center>
+
 # DevFocus - Cronômetro Pomodoro para Desenvolvedores
 
-Este é um cronômetro Pomodoro simples e eficaz, desenvolvido para ajudar desenvolvedores a aumentar sua produtividade. Utiliza HTML, CSS e JavaScript puro (VanillaJS) para criar uma interface amigável e fácil de usar.
+Este é um cronômetro Pomodoro simples e eficaz, desenvolvido para ajudar desenvolvedores a aumentar sua produtividade. A ideia foi explorar HTML, CSS e JavaScript ao máximo, para criar uma interface amigável e específica.
+
 
 ## Visão Geral
 
@@ -23,5 +26,6 @@ A Técnica Pomodoro é um método de gerenciamento de tempo que utiliza um cron�
 
 1. **Clone o Repositório**:
    ```sh
-   git clone https://github.com/seu-usuario/cronometro-pomodoro.git
+   git clone https://https://github.com/renatokhael/devfocus-app
    ```
+
